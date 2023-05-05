@@ -1,0 +1,30 @@
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.BusinessLogic.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.BusinessLogic.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.DataAccess.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.Entities.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.DataAccess.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.DataAccess.dll.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.Entities.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.Entities.dll.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.csproj.CopyComplete
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.BusinessLogic.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.BusinessLogic.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.DataAccess.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.Entities.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.DataAccess.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.DataAccess.dll.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.Entities.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\Articulo.Entities.dll.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.csproj.CopyComplete
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.BusinessLogic\obj\Debug\Articulo.BusinessLogic.pdb

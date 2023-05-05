@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6DA9594-CA62-4C41-BAD9-B90EA18D9355}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Articulo.View</RootNamespace>
+    <AssemblyName>Articulo.View</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdmUsuario.Designer.cs">
+      <DependentUpon>frmAdmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCargo.Designer.cs">
+      <DependentUpon>frmAgregarCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarCliente.Designer.cs">
+      <DependentUpon>frmAgregarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarEmpleado.Designer.cs">
+      <DependentUpon>frmAgregarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarProveedor.Designer.cs">
+      <DependentUpon>frmAgregarProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargo.Designer.cs">
+      <DependentUpon>frmCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategoriaNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategoriaNuevo.Designer.cs">
+      <DependentUpon>frmCategoriaNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmpleado.Designer.cs">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstado.Designer.cs">
+      <DependentUpon>frmEstado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstadoNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstadoNuevo.Designer.cs">
+      <DependentUpon>frmEstadoNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProveedor.Designer.cs">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRol.Designer.cs">
+      <DependentUpon>frmRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRolNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRolNuevo.Designer.cs">
+      <DependentUpon>frmRolNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuarioNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuarioNuevo.Designer.cs">
+      <DependentUpon>frmUsuarioNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdmUsuario.resx">
+      <DependentUpon>frmAdmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarCargo.resx">
+      <DependentUpon>frmAgregarCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarCliente.resx">
+      <DependentUpon>frmAgregarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarEmpleado.resx">
+      <DependentUpon>frmAgregarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarProveedor.resx">
+      <DependentUpon>frmAgregarProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargo.resx">
+      <DependentUpon>frmCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategoriaNuevo.resx">
+      <DependentUpon>frmCategoriaNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmpleado.resx">
+      <DependentUpon>frmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstado.resx">
+      <DependentUpon>frmEstado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstadoNuevo.resx">
+      <DependentUpon>frmEstadoNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProveedor.resx">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRol.resx">
+      <DependentUpon>frmRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRolNuevo.resx">
+      <DependentUpon>frmRolNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuarioNuevo.resx">
+      <DependentUpon>frmUsuarioNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Articulo.BusinessLogic\Articulo.BusinessLogic.csproj">
+      <Project>{3F5F6E75-2B0D-4084-B9E4-EC9A10411401}</Project>
+      <Name>Articulo.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Articulo.Entities\Articulo.Entities.csproj">
+      <Project>{0D159BD7-1A60-49C6-B1AE-5B8C8A521E7B}</Project>
+      <Name>Articulo.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfindercartsaleshop4177568-115973_115942.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sale_25339.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DocumentEdit_40924.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfindercartsaleshop4177568-115973_1159421.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder-trash-4341321_120557.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

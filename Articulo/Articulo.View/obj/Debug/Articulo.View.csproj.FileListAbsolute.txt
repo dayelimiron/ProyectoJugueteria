@@ -1,0 +1,81 @@
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.View.exe.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.View.exe
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.View.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.BusinessLogic.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.Entities.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\MetroFramework.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.DataAccess.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\EntityFramework.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.BusinessLogic.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.Entities.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.Entities.dll.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.DataAccess.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\Articulo.DataAccess.dll.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\EntityFramework.xml
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.AssemblyReference.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.Form1.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmCategoriaNuevo.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.Properties.Resources.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.GenerateResource.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.CopyComplete
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.exe
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmUsuario.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAgregarCargo.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmCargo.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmEmpleado.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAgregarEmpleado.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmRol.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmRolNuevo.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmEstado.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmEstadoNuevo.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAdmUsuario.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.View\obj\Debug\Articulo.View.frmUsuarioNuevo.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.View.exe.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.View.exe
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.View.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.BusinessLogic.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.Entities.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\EntityFramework.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\MetroFramework.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.DataAccess.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.BusinessLogic.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.Entities.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.Entities.dll.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\EntityFramework.xml
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.DataAccess.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\bin\Debug\Articulo.DataAccess.dll.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.AssemblyReference.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.Form1.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAdmUsuario.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAgregarCargo.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAgregarCliente.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAgregarEmpleado.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmAgregarProveedor.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmCargo.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmCategoriaNuevo.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmCliente.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmEmpleado.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmEstado.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmEstadoNuevo.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmProveedor.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmRol.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmRolNuevo.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmUsuario.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.frmUsuarioNuevo.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.Properties.Resources.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.GenerateResource.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.CoreCompileInputs.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.csproj.CopyComplete
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.exe
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.View\obj\Debug\Articulo.View.pdb

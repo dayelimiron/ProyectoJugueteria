@@ -1,0 +1,32 @@
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\Articulo.DataAccess.dll.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\Articulo.DataAccess.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\Articulo.DataAccess.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\Articulo.Entities.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\Articulo.Entities.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\Articulo.Entities.dll.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.csproj.CopyComplete
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\Articulo.DataAccess.dll.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\Articulo.DataAccess.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\Articulo.DataAccess.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\Articulo.Entities.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\Articulo.Entities.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\Articulo.Entities.dll.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\obj\Debug\Articulo.Entities.Migrations.Inicio.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.csproj.GenerateResource.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.csproj.CopyComplete
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.DataAccess\obj\Debug\Articulo.DataAccess.pdb

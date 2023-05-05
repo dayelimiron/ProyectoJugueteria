@@ -1,0 +1,42 @@
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.dll.config
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.dll
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.pdb
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\bin\Debug\EntityFramework.dll
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\bin\Debug\EntityFramework.xml
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.AssemblyReference.cache
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.CopyComplete
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.dll
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.pdb
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.Migrations.Inicio.resources
+C:\Users\yohan\source\repos\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.GenerateResource.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.dll.config
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\bin\Debug\EntityFramework.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\bin\Debug\EntityFramework.xml
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.AssemblyReference.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.CopyComplete
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.dll
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.pdb
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.Migrations.Inicio.resources
+C:\Users\yohan\Desktop\2023-Ciclo1\ProgramacionIII\Articulo\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.GenerateResource.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.dll.config
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\bin\Debug\Articulo.Entities.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.AssemblyReference.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.CopyComplete
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.dll
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.pdb
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.Migrations.Inicio.resources
+C:\Users\Dayeli Miron\Downloads\ProyectoJugueteria\Articulo\Articulo.Entities\obj\Debug\Articulo.Entities.csproj.GenerateResource.cache
